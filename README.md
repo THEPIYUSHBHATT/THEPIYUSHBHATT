@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THEPIYUSHBHATT
-- 👀 I’m interested in ...data and cubersecurity 
+- 👀 I’m interested in ...building websites and solving complex problems
 - 🌱 I’m currently learning ...analysing databases and learning web dep
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...website building.
 - 📫 How to reach me ...mail me at - piyushbhatt@gmail.com 
 
 <!---
