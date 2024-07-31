@@ -1,4 +1,4 @@
-<p align="left">:-🌍  I'm based in Delhi, India<br>:-✉️  You can contact me at piyushbhatt053@gmail.com<br>:-🧠  I'm currently learning React.Js<br>:-🤝  I'm open to collaborating on frontend projects.<br>:-⚡  Pursuing B.Tech (Computer Science) from GGSIPU.</p>
+<p align="left">:-🌍  I'm based in Delhi, India<br>:-✉️  You can contact me at piyushbhatt053@gmail.com<br>:-🧠  I'm currently learning Next.Js<br>:-🤝  I'm open to collaborating on frontend projects.<br>:-⚡  Pursuing B.Tech (Computer Science) from GGSIPU.</p>
 
 ###
 
